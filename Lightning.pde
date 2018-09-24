@@ -30,5 +30,3 @@ void Lightning(){
 void mousePressed(){
   Lightning();
 }
-
-s
